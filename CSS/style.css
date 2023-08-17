@@ -17,6 +17,13 @@ header {
 }
 header .btn {
   margin-left: 70rem;
+  width: 180px;
+  height: 60px;
+  background-color: hsl(180, 65%, 92%);
+  border: none;
+  border-radius: 6px;
+  color: rgb(19, 19, 61);
+  font-weight: 700;
 }
 header .logo {
   width: 50px;
