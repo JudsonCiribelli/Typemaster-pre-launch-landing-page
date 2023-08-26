@@ -99,3 +99,12 @@ body {
   border-radius: 6px;
   margin-left: 40px;
 }
+.section-02 .sec3 {
+  height: 400px;
+  width: 500px;
+  margin-left: 80px;
+  background-image: url(../Images/ndn2zhorv5j71.webp);
+  background-position: center;
+  background-size: cover;
+  border-radius: 6px;
+}
