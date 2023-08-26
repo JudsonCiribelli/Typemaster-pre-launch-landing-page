@@ -84,7 +84,7 @@ body {
 }
 .section-02 .sec1 {
   height: 180px;
-  width: 200px;
+  width: 300px;
   background-color: rgb(177, 177, 177);
   margin-top: 200px;
   border-top-right-radius: 6px;
@@ -92,7 +92,7 @@ body {
 }
 .section-02 .sec2 {
   height: 400px;
-  width: 300px;
+  width: 350px;
   background-image: url(../Images/94ff49a85a88782142d35d400585154b.jpg);
   background-size: cover;
   background-position: center;
@@ -101,10 +101,24 @@ body {
 }
 .section-02 .sec3 {
   height: 400px;
-  width: 500px;
+  width: 600px;
   margin-left: 80px;
   background-image: url(../Images/ndn2zhorv5j71.webp);
   background-position: center;
   background-size: cover;
   border-radius: 6px;
+}
+.section-02 .description2 {
+  margin-left: 80px;
+}
+.section-02 .description2 h1 {
+  font-size: 40px;
+  color: rgb(19, 19, 61);
+  font-weight: 600;
+}
+.section-02 .description2 p {
+  color: rgb(177, 177, 177);
+  padding-top: 30px;
+  font-size: 20px;
+  font-weight: 500;
 }
