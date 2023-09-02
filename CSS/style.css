@@ -177,3 +177,22 @@ body {
   background-repeat: no-repeat;
   border-radius: 6px;
 }
+.icon4 {
+  width: 80px;
+  height: 80px;
+  background-color: hsl(16, 93%, 48%);
+  background-image: url(../Images/Icons/icon-light.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 6px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+footer p {
+  font-size: 20px;
+  color: black;
+  font-weight: 600;
+}
