@@ -126,11 +126,36 @@ body {
   display: flex;
   flex-direction: row;
   margin-top: 50px;
+  margin-left: 250px;
 }
-.section-03 .icon1 {
+.container1 {
+  display: flex;
+  flex-direction: column;
+}
+.section-03 .container1 {
   height: 400px;
   width: 300px;
-  background-color: aqua;
+
   margin-left: 40px;
   border-radius: 6px;
+}
+.icon1 {
+  width: 80px;
+  height: 80px;
+  background-color: hsl(16, 93%, 48%);
+  background-image: url(../Images/Icons/icon-compatible.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 6px;
+}
+.container1 h2 {
+  margin-top: 30px;
+  color: rgb(19, 19, 61);
+  font-weight: 700;
+}
+.container1 p {
+  margin-top: 30px;
+  color: rgb(177, 177, 177);
+  font-size: 20px;
+  font-weight: 400;
 }
